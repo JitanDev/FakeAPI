@@ -1,9 +1,9 @@
 {
   "Users":[
     {
-      "Id":1,
-      "Name":"Jitan",
-      "ProfileImage":"https://dummyimage.com/400x400/8cc4f7/8cc4f7"
+      "id":1,
+      "name":"Jitan",
+      "profileImage":"https://dummyimage.com/400x400/8cc4f7/8cc4f7"
     }
   ]
 }

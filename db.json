@@ -1,69 +1,73 @@
 {
-  "status": "success",
-  "data": [
+  "ideas": [
     {
-      "id": "asdfljsad1324kj2134uosiu",
-      "slug": "sparsh-stories",
-      "title": "Sparsh Stories",
-      "description": "I love to write. Sparsh stories is a place where I share my writing which is inpsired by real life.",
-      "category": "Entertainment",
-      "author": {
-        "id": "asdfljsa234d1324kj2134uosiu",
-        "name": "Jeetan Gupta",
-        "picture": "https://ui-avatars.com/api/?name=jeetan+gupta&background=0D8ABC&color=fff",
-        "username": "jeetangupta",
-        "title": "Writer, Author"
-      },
-      "analytics": {
-        "views": 1,
-        "comments": 1,
-        "likes": 1
-      },
-      "city": "Mumbai",
-      "country": "India",
-      "logoPath": "https://ui-avatars.com/api/?name=Sparsh+Stories&background=0D8ABC&color=fff&size=168",
-      "stage": "prototype",
-      "problem": "nothing much, as I like to write, I am wondering, where I can share it.",
-      "solution": "Except social media, I don't know where to share.",
-      "usp": "As every one is unique in their own way, I am sharing my views on how I see the world.",
-      "currentlyLookingFor": [
+      "status": "success",
+      "data": [
         {
-          "title": "FEEDBACK",
-          "value": "I want the honest feedback about my ideas, it is really worth it.",
-          "tagBg": "bg-blue"
-        }
-      ]
-    },
-     {
-      "id": "asdfljsad1324kj2134uo23u",
-      "slug": "manya-js",
-      "title": "Manya.js",
-      "description": "ManyaJS is a HTML form validator, built on top on jquery. It can be used with dotnet, dotnet core, html, PHP and support for other techlogies are on the way.",
-      "category": "Technology",
-      "author": {
-        "id": "asdfljsa234d1324kj2134uosiu",
-        "name": "Jeetan Gupta",
-        "picture": "https://ui-avatars.com/api/?name=jeetan+gupta&background=0D8ABC&color=fff",
-        "username": "jeetangupta",
-        "title": "Writer, Author"
-      },
-      "analytics": {
-        "views": 1,
-        "comments": 1,
-        "likes": 1
-      },
-      "city": "Mumbai",
-      "country": "India",
-      "logoPath": "https://ui-avatars.com/api/?name=manya+JS&background=0D8ABC&color=fff&size=168",
-      "stage": "prototype",
-      "problem": "During my initail days of learning and coding, I felt that, there is a gap for validating the users data and there are some plugins available but they are paid.",
-      "solution": "So I thought why not to create your own plugin and make it open source, so that other forks also can get benits.",
-      "usp": "Ease of use, open source and developer friendly",
-      "currentlyLookingFor": [
+          "id": "asdfljsad1324kj2134uosiu",
+          "slug": "sparsh-stories",
+          "title": "Sparsh Stories",
+          "description": "I love to write. Sparsh stories is a place where I share my writing which is inpsired by real life.",
+          "category": "Entertainment",
+          "author": {
+            "id": "asdfljsa234d1324kj2134uosiu",
+            "name": "Jeetan Gupta",
+            "picture": "https://ui-avatars.com/api/?name=jeetan+gupta&background=0D8ABC&color=fff",
+            "username": "jeetangupta",
+            "title": "Writer, Author"
+          },
+          "analytics": {
+            "views": 1,
+            "comments": 1,
+            "likes": 1
+          },
+          "city": "Mumbai",
+          "country": "India",
+          "logoPath": "https://ui-avatars.com/api/?name=Sparsh+Stories&background=0D8ABC&color=fff&size=168",
+          "stage": "prototype",
+          "problem": "nothing much, as I like to write, I am wondering, where I can share it.",
+          "solution": "Except social media, I don't know where to share.",
+          "usp": "As every one is unique in their own way, I am sharing my views on how I see the world.",
+          "currentlyLookingFor": [
+            {
+              "title": "FEEDBACK",
+              "value": "I want the honest feedback about my ideas, it is really worth it.",
+              "tagBg": "bg-blue"
+            }
+          ]
+        },
         {
-          "title": "FEEDBACK",
-          "value": "I want the honest feedback about my ideas, it is really worth it.",
-          "tagBg": "bg-blue"
+          "id": "asdfljsad1324kj2134uo23u",
+          "slug": "manya-js",
+          "title": "Manya.js",
+          "description": "ManyaJS is a HTML form validator, built on top on jquery. It can be used with dotnet, dotnet core, html, PHP and support for other techlogies are on the way.",
+          "category": "Technology",
+          "author": {
+            "id": "asdfljsa234d1324kj2134uosiu",
+            "name": "Jeetan Gupta",
+            "picture": "https://ui-avatars.com/api/?name=jeetan+gupta&background=0D8ABC&color=fff",
+            "username": "jeetangupta",
+            "title": "Writer, Author"
+          },
+          "analytics": {
+            "views": 1,
+            "comments": 1,
+            "likes": 1
+          },
+          "city": "Mumbai",
+          "country": "India",
+          "logoPath": "https://ui-avatars.com/api/?name=manya+JS&background=0D8ABC&color=fff&size=168",
+          "stage": "prototype",
+          "problem": "During my initail days of learning and coding, I felt that, there is a gap for validating the users data and there are some plugins available but they are paid.",
+          "solution": "So I thought why not to create your own plugin and make it open source, so that other forks also can get benits.",
+          "usp": "Ease of use, open source and developer friendly",
+          "currentlyLookingFor": [
+            {
+              "title": "FEEDBACK",
+              "value": "I want the honest feedback about my ideas, it is really worth it.",
+              "tagBg": "bg-blue"
+            }
+          ]
         }
       ]
     }

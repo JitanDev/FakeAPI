@@ -105,7 +105,7 @@
             "id": "asdfljsa234d1324kj234uosiu",
             "name": "Apoorva Kumar",
             "picture": "https://ui-avatars.com/api/?name=Apoorva+Kumar&background=885af8&color=fff",
-            "username": "mallymagie"
+            "username": "apoorvakumar"
           },
           "datetime": "12/23/2019 05:15:21 PM",
           "isLikedByMe": false,
@@ -113,6 +113,64 @@
           "hasReply": false
         }
       ]
+    }
+  ],
+   "users": [
+    {
+      "id": "asdfljsa234d1324kj2134uosiu",
+      "name":"Jeetan Gupta",
+      "username":"jeetangupta",
+      "title": "Product Development Head",
+      "bio": "Hello there, I am Jeetan Gupta, co-founder of IDYA and Product Development Head. For more information about me, search me on Google.",
+      "companyName": "Idya",
+      "city": "Mumbai",
+      "country": "India",
+      "picture": "https://ui-avatars.com/api/?name=jeetan+gupta&background=885af8&color=fff",
+      "lastLogin": "12/23/2019 04:10:41 PM",
+      "Role": ["IDEATOR","BUSINESS OWNER"],
+      "lookingFor":["This is what I am looking for.", "This is something else I am looking for."]
+    },
+     {
+      "id": "asdfljsa234d1324kj234uosiu",
+      "name":"Apoorva Kumar",
+      "username":"apoorvakumar",
+      "title": "CTO",
+      "bio": "Hello there, I am Apoorva Kumar, co-founder and of IDYA.. For more information about me, search me on Google.",
+      "companyName": "Idya",
+      "city": "Mumbai",
+      "country": "India",
+      "picture": "https://ui-avatars.com/api/?name=Apoorva+Kumar&background=885af8&color=fff",
+      "lastLogin": "12/23/2019 04:10:41 PM",
+      "Role": ["IDEATOR","BUSINESS OWNER"],
+      "lookingFor":["This is what I am looking for.", "This is something else I am looking for."]
+    },
+    {
+      "id": "asdfljs1324kj234uosi2",
+      "name":"Mally Magie",
+      "username":"mallymagie",
+      "title": "Marketing Head",
+      "bio": "Hello there, I am Mally Magie, co-founder of XYZ Co. and Marketing Head. For more information about me, search me on Google.",
+      "companyName": "XYZ Co",
+      "city": "Seattle",
+      "country": "USA",
+      "picture": "https://ui-avatars.com/api/?name=Mally+Magie&background=2c3e50&color=fff",
+      "lastLogin": "12/23/2019 04:10:41 PM",
+      "Role": ["IDEATOR","INVESTOR","MENTOR"],
+      "lookingFor":["This is what I am looking for.", "This is something else I am looking for."]
+    },
+     {
+      "id": "asdfljsa234d1324kj234uosiu",
+      "name":"Craig Henderson",
+      "username":"craighenderson",
+      "title": "Student",
+      "bio": "Hello there, I am Craig Henderson, stuent of ABC College and  For more information about me, search me on Google.",
+      "companyName": "ABC College",
+      "city": "Menchester United",
+      "country": "UAE",
+      "picture": "https://ui-avatars.com/api/?name=Apoorva+Kumar&background=885af8&color=fff",
+      "lastLogin": "12/23/2019 04:10:41 PM",
+      "Role": ["STUDENT","FREELANCER"],
+      "lookingFor":["This is what I am looking for.", "This is something else I am looking for."]
     }
   ]
 }

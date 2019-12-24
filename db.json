@@ -43,7 +43,9 @@
             "picture": "https://ui-avatars.com/api/?name=Craig+Henderson&background=D4A600&color=fff",
             "username": "craighenderson"
           },
-          "datetime": "12/23/2019 04:10:41 PM"
+          "datetime": "12/23/2019 04:10:41 PM",
+          "isLikedByMe": false,
+          "likes": 5
         },
         {
           "id": "asdfljs1324kj234uosi2",
@@ -54,7 +56,9 @@
             "picture": "https://ui-avatars.com/api/?name=Mally+Magie&background=2c3e50&color=fff",
             "username": "mallymagie"
           },
-          "datetime": "12/23/2019 05:15:21 PM"
+          "datetime": "12/23/2019 05:15:21 PM",
+          "isLikedByMe": true,
+          "likes": 0
         }
       ]
     },
@@ -101,7 +105,9 @@
             "picture": "https://ui-avatars.com/api/?name=Apoorva+Kumar&background=885af8&color=fff",
             "username": "mallymagie"
           },
-          "datetime": "12/23/2019 05:15:21 PM"
+          "datetime": "12/23/2019 05:15:21 PM",
+          "isLikedByMe": false,
+          "likes": 2
         }
       ]
     }

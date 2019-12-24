@@ -25,6 +25,7 @@
       "problem": "nothing much, as I like to write, I am wondering, where I can share it.",
       "solution": "Except social media, I don't know where to share.",
       "usp": "As every one is unique in their own way, I am sharing my views on how I see the world.",
+      "isLikedByMe":true,
       "currentlyLookingFor": [
         {
           "title": "FEEDBACK",
@@ -82,6 +83,7 @@
       "problem": "During my initail days of learning and coding, I felt that, there is a gap for validating the users data and there are some plugins available but they are paid.",
       "solution": "So I thought why not to create your own plugin and make it open source, so that other forks also can get benits.",
       "usp": "Ease of use, open source and developer friendly",
+      "isLikedByMe":false,
       "currentlyLookingFor": [
         {
           "title": "FEEDBACK",

@@ -45,7 +45,8 @@
           },
           "datetime": "12/23/2019 04:10:41 PM",
           "isLikedByMe": false,
-          "likes": 5
+          "likes": 5,
+          "hasReply": false
         },
         {
           "id": "asdfljs1324kj234uosi2",
@@ -58,7 +59,8 @@
           },
           "datetime": "12/23/2019 05:15:21 PM",
           "isLikedByMe": true,
-          "likes": 0
+          "likes": 0,
+          "hasReply": false
         }
       ]
     },
@@ -107,7 +109,8 @@
           },
           "datetime": "12/23/2019 05:15:21 PM",
           "isLikedByMe": false,
-          "likes": 2
+          "likes": 2,
+          "hasReply": false
         }
       ]
     }

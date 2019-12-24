@@ -31,6 +31,28 @@
           "value": "I want the honest feedback about my ideas, it is really worth it.",
           "tagBg": "bg-blue"
         }
+      ],
+      "comments": [
+        {
+          "comment": "When we remove the impressions in the subconscious mind, then only we can realise the divine consciousness within, meaning we can recognise our own true form. The Personality Defect Removal Process helps us to overcome the impressions in the subconscious mind.",
+          "commenter": {
+            "id": "asdfljsa234d1324kj234uosiu",
+            "name": "Craig Henderson",
+            "picture": "https://ui-avatars.com/api/?name=Craig+Henderson&background=D4A600&color=fff",
+            "username": "craighenderson"
+          },
+          "datetime": "12/23/2019 04:10:41 PM"
+        },
+        {
+          "comment": "The absence of ego is the presence of god.",
+          "commenter": {
+            "id": "asdfljsa234d1324kj234uosiu",
+            "name": "Mally Magie",
+            "picture": "https://ui-avatars.com/api/?name=Mally+Magie&background=2c3e50&color=fff",
+            "username": "mallymagie"
+          },
+          "datetime": "12/23/2019 05:15:21 PM"
+        }
       ]
     },
     {
@@ -63,6 +85,18 @@
           "title": "FEEDBACK",
           "value": "I want the honest feedback about my ideas, it is really worth it.",
           "tagBg": "bg-blue"
+        }
+      ],
+      "comments": [
+        {
+          "comment": "I am so happy to see this, thanks for creating this plugin. I had some addtional feature requirement like suggestion, will love to see that feature coming if you implement it..",
+          "commenter": {
+            "id": "asdfljsa234d1324kj234uosiu",
+            "name": "Apoorva Kumar",
+            "picture": "https://ui-avatars.com/api/?name=Apoorva+Kumar&background=885af8&color=fff",
+            "username": "mallymagie"
+          },
+          "datetime": "12/23/2019 05:15:21 PM"
         }
       ]
     }

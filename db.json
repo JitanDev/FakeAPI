@@ -1,7 +1,7 @@
 {
   "ideas": [
     {
-      "id": "asdfljsad1324kj2134uosiu",
+      "uuid": "asdfljsad1324kj2134uosiu",
       "slug": "sparsh-stories",
       "title": "Sparsh Stories",
       "description": "I love to write. Sparsh stories is a place where I share my writing which is inpsired by real life.",
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "id": "asdfljsad1324kj2134uo23u",
+      "uuid": "asdfljsad1324kj2134uo23u",
       "slug": "manya-js",
       "title": "Manya.js",
       "description": "ManyaJS is a HTML form validator, built on top on jquery. It can be used with dotnet, dotnet core, html, PHP and support for other techlogies are on the way.",
